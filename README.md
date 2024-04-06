@@ -77,3 +77,24 @@ git pull <remote>
 ```
 
 
+### Docker 
+
+Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service.
+
+### Docker Container
+
+Docker container is a runtime instance of an image. Allows developers to package applications with all parts needed such as libraries and other dependencies.
+
+### Docker Hub
+
+Docker Hub is a `repository service` and it is a cloud-based service where people push their Docker Container Images and also pull the Docker Container Images from the Docker Hub anytime or anywhere via the internet.
+
+### Commands in Docker
+
+1. Docker version
+2. Docker -v
+3. Docker info
+4. Docker help
+5. Docker images
+6. 
+
