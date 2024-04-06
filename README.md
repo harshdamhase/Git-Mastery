@@ -89,6 +89,9 @@ Docker container is a runtime instance of an image. Allows developers to package
 
 Docker Hub is a `repository service` and it is a cloud-based service where people push their Docker Container Images and also pull the Docker Container Images from the Docker Hub anytime or anywhere via the internet.
 
+**Virtual Machines (VMs)** run on Hypervisors, which allow multiple Virtual Machines to run on a single machine along with its own operating system.
+
+
 ### Commands in Docker
 
 1. Docker version
@@ -96,5 +99,8 @@ Docker Hub is a `repository service` and it is a cloud-based service where peopl
 3. Docker info
 4. Docker help
 5. Docker images
-6. 
+6. Docker stop
+7. docker ps  :: commands checks the conatainer in docker.
+8. docker rm -f :: forecefully stops the docker container.
+9. 
 
